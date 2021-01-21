@@ -13,4 +13,4 @@ Linux scripts provided for best practice of USB ASIC on mining Cheetahcoin (CHTA
 * Two rotating full nodes can provide solo pool stability compared to single node only solo mining. 
 
 ## Warning
-ShorelineCrypto Exchange has no mining policy against using exchange CHTA wallet address for direct mining. For this setup, do not use exchange address as mining receiving address. In stead use your own CHTA private wallet address for this setup. 
+ShorelineCrypto Exchange has anti-mining policy against using exchange CHTA wallet address for direct mining. For this setup, do not use exchange address as mining receiving address. In stead use your own CHTA private wallet address for this setup. 
